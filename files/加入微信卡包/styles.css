@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:375px;
+  width:820px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,12 +12,12 @@
   position:absolute;
   z-index:0;
 }
-#u351_div {
+#u265_div {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
-  height:667px;
+  height:603px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -29,36 +29,36 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u351 {
+#u265 {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
-  height:667px;
+  height:603px;
 }
-#u352 {
+#u266 {
   position:absolute;
   left:2px;
-  top:326px;
+  top:294px;
   width:371px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u353_img {
+#u267_img {
   position:absolute;
   left:0px;
   top:0px;
   width:374px;
   height:600px;
 }
-#u353 {
+#u267 {
   position:absolute;
-  left:0px;
-  top:19px;
+  left:1px;
+  top:-8px;
   width:374px;
   height:600px;
 }
-#u354 {
+#u268 {
   position:absolute;
   left:2px;
   top:292px;
@@ -66,7 +66,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u355_div {
+#u269_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -80,14 +80,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u355 {
+#u269 {
   position:absolute;
-  left:0px;
-  top:619px;
+  left:446px;
+  top:998px;
   width:374px;
   height:48px;
 }
-#u356 {
+#u270 {
   position:absolute;
   left:2px;
   top:16px;
@@ -95,12 +95,12 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u357_div {
+#u271_div {
   position:absolute;
   left:0px;
   top:0px;
   width:374px;
-  height:26px;
+  height:12px;
   background:inherit;
   background-color:rgba(240, 239, 244, 1);
   border:none;
@@ -109,30 +109,30 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u357 {
+#u271 {
   position:absolute;
-  left:0px;
-  top:0px;
+  left:1px;
+  top:591px;
   width:374px;
-  height:26px;
+  height:12px;
 }
-#u358 {
+#u272 {
   position:absolute;
   left:2px;
-  top:5px;
+  top:-2px;
   width:370px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u359 {
+#u273 {
   position:absolute;
-  left:9px;
-  top:62px;
+  left:10px;
+  top:36px;
   width:357px;
   height:94px;
   overflow:hidden;
 }
-#u359_state0 {
+#u273_state0 {
   position:absolute;
   left:0px;
   top:0px;
@@ -144,7 +144,7 @@
   overflow-y:hidden;
   background-image:none;
 }
-#u359_state0_content {
+#u273_state0_content {
   position:absolute;
   left:0px;
   top:0px;
